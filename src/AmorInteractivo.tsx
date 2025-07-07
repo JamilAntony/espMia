@@ -612,7 +612,7 @@ export default function AmorInteractivo() {
         <div className="absolute top-1/4 right-4 md:right-8 z-50 flex justify-end w-full pointer-events-none">
           <div className="bg-gradient-to-br from-violet-100/90 via-white/80 to-fuchsia-100/90 border-2 border-violet-300 rounded-3xl shadow-2xl px-8 py-8 max-w-md w-full md:w-96 backdrop-blur-lg flex flex-col items-center animate-celebrateBox">
             <h1 className="text-3xl md:text-4xl font-extrabold text-violet-700 mb-4 flex items-center gap-2">
-              <span>¡Rosa deAmor Eterno!</span>
+              <span>¡Rosa de Amor Eterno!</span>
               <span className="animate-bounce">🌸</span>
             </h1>
             <p className="text-lg md:text-xl text-fuchsia-700 font-medium text-center flex items-center gap-2">
@@ -634,7 +634,7 @@ export default function AmorInteractivo() {
           </h2>
           <p className="text-lg md:text-xl text-fuchsia-700 font-medium text-center">
             Hice esto para ti :<br/>
-            Riega con mucho amor esta planta haciendo click.
+            Haz click hasta el cansancio.
           </p>
         </div>
       </div>
